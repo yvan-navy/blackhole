@@ -10,7 +10,7 @@ var Async = function () {
         var results = [];
         for(var i=0; i<array.length;i++){
             (function (i) {
-                func(array[i],function (err,result) {
+                func(array[i],function (error,result) {
                     count--;
                     if(error)//stock error
                         errors[i]=error;

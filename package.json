@@ -1,0 +1,23 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "Une script qui télécharge toutes les données contenues sur site web pour les sauvegarder ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvan-navy/blackhole.git"
+  },
+  "keywords": [
+    "blackhole",
+    "formation"
+  ],
+  "author": "someone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvan-navy/blackhole/issues"
+  },
+  "homepage": "https://github.com/yvan-navy/blackhole#readme"
+}
